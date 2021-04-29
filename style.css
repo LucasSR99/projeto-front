@@ -1,3 +1,16 @@
+@font-face {
+    font-family: Poppins;
+    src: url('fonts/poppins/Poppins-Regular.ttf');
+}
+
+@font-face {
+    font-family: Montserrat;
+    src: url('fonts/montserrat/Montserrat-Regular.ttf');
+}
+
+body{
+    font-family: Montserrat;
+}
 .botao {
     color: white;
     background-color:  #FA4A0C;
@@ -17,6 +30,10 @@
     border: 1px solid white;
     background-color: transparent;
     margin-left: 34px;
+}
+
+h1{
+    font-family: 'Poppins';
 }
 
 .container h1, .container h2, .container h3{
