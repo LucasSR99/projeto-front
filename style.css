@@ -35,9 +35,13 @@ header{
     background-color: transparent;
     margin-left: 34px;
 }
-
+h2{
+    margin-top: 60px;
+}
 h1{
     font-family: 'Poppins';
+    margin-top: 17px;
+    margin-bottom: 27px;
 }
 
 .container h1, .container h2, .container h3{
@@ -47,6 +51,7 @@ h1{
 }
 
 .container {
+    background-color: black;
     background-image: url("images/banner.jpg");
     background-size: cover;
     width: 1440px;
