@@ -11,6 +11,10 @@
 body{
     font-family: Montserrat;
 }
+header{
+   
+    height: 100px;
+}
 .botao {
     color: white;
     background-color:  #FA4A0C;
